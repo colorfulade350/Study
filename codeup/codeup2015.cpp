@@ -1,4 +1,4 @@
-#include <cstdio>
+#include <stdio.h>
 
 int d[20], ck[20]; //F,O,R,T,Y,E,N,S,I,X
 bool flag;
@@ -34,6 +34,5 @@ void f(int k)
 int main()
 {
   f(0);
-
   return 0;
 }
