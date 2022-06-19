@@ -1,6 +1,4 @@
-# Study
-* This repository is for storing my study records.
-***
+# Study(This repository is for storing my study records.)
 
 ## Biology
 ### This section is my Biology project
