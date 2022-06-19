@@ -1,1 +1,1 @@
-# This repository is for informatic science
+# This repository is for storing my informatics sources.
