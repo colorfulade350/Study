@@ -2,7 +2,7 @@ from vpython import *
 
 scene.title = "<b>Author : 31305 김서현</b>"
 
-N = 729 # [3, 9, 27, 81, 243, 729]
+N = 729 # 3, 9, 27, 81, 243, 729
 
 def f(x, y, h, w) :
   a, b = int(h//3), int(w//3)
